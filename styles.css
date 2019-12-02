@@ -53,9 +53,8 @@ header h1 {
 .container
 {
 	background-image: url(./blur.png);
-	background-size: 60%;
- 
-}
+	background-size: width: 400px;
+ }
 
 .body
 {
