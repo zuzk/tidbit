@@ -71,12 +71,9 @@ alignment-baseline: central;
 
 video#bgVideo {
   position: absolute;
-  top: 0px; 
-  left: 0px; 
-  min-width: 100%; 
-  min-height: 100%;
+  top: auto; 
+  left: auto; 
   z-index: -1;
   margin-right: auto;
-margin-left: auto;
-margin-right: auto;
+  margin-left: auto;
 }
