@@ -54,6 +54,7 @@ header h1 {
 {
 	background-image: url(./blur.png);
 	background-size: width: 400px;
+	width: 400px;
  }
 
 .body
