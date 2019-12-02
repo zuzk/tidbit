@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'KG Neatly Printed Spaced';
-	src: url(../../assets/fonts/KG%20Neatly%20Printed%20Spaced.woff2) format('woff2'),
-	url(../../assets/fonts/KG%20Neatly%20Printed%20Spaced.woff) format('woff');
+	src: url(https://github.com/zuzk/tidbit/raw/master/font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
+	url(https://github.com/zuzk/tidbit/raw/master/font/KGNeatlyPrintedSpaced.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
