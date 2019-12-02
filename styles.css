@@ -61,11 +61,10 @@ margin-bottom: 5px;
  }
 .body
 {
+background-position: 0px 0px;
+background-size: cover;
+background-repeat: no-repeat;
 
-  background-position: 0px 0px;
-  background-size: cover;
-  background-repeat: no-repeat;
-}
 video#bgVideo 
 {
 position: absolute;
