@@ -65,18 +65,12 @@ header h1 {
 {
 align-content: center;
 align-self: center;
-alignment-baseline: central;
-background-position: 0px 0px;
-background-size: auto;
 }
 
-video#bgVideo {
+video#bgVideo 
+{
 position: fixed;
 z-index: -1;
-margin-right: auto;
-margin-left: auto;
-top: 0px;
-bottom: 0px;
 left: 0;
 right: 0;
 
