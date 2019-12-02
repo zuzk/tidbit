@@ -69,9 +69,13 @@ align-self: center;
 
 video#bgVideo 
 {
-position: fixed;
+position: absolute;
 z-index: -1;
 left: 0;
 right: 0;
+top: 0px; 
+left: 0px; 
+min-width: 100%; 
+min-height: 100%;
 
 }
