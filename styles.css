@@ -56,21 +56,18 @@ background-image: url(./blur.png);
 width: 400px;
 margin-top: 5px;
 margin-right: auto;
-margin-left: auto
+margin-left: auto;
 margin-bottom: 5px;
- }
+}
 
 
 
-video#bgVideo 
-{
-position: fixed;
+video#bgVideo
+{position: fixed;
 z-index: -1;
 margin-right: auto;
 margin-left: auto;
-top: 0px;
-bottom: 0px;
-left: 0px;
-right: 0px;
+top: 0;
+bottom: 0;
 
 }
