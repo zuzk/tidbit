@@ -66,7 +66,7 @@ align-content: center;
 align-self: center;
 alignment-baseline: central;
 background-position: 0px 0px;
-background-size: cover;
+background-size: auto;
 background-repeat: no-repeat;
 background-image: url(./small.gif)
 }
