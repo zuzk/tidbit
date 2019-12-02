@@ -56,6 +56,8 @@ background-image: url(./blur.png);
 width: 400px;
 margin-top: 5px;
 margin-bottom: 5px;
+margin-right: auto;
+margin-left: auto;
 }
 
 .body
@@ -68,10 +70,8 @@ align-self: center;
 
 video#bgVideo
 {
-position: absolute;
+position: fixed;
 top: 0px; 
 left: 0px; 
-min-width: 100%; 
-min-height: 100%;
 z-index: -1;
 }
