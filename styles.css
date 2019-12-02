@@ -64,20 +64,17 @@ margin-bottom: 5px;
 {
 align-content: center;
 align-self: center;
-background-repeat: repeat;
-background-position: 0px 0px;
-background-size: auto;
-alignment-baseline: central;
+
 }
 
 
 
 video#bgVideo
 {
-position: fixed;
+position: absolute;
+top: 0px; 
+left: 0px; 
+min-width: 100%; 
+min-height: 100%;
 z-index: -1;
-margin-right: auto;
-margin-left: auto;
-top: 0;
-bottom: 0;
 }
