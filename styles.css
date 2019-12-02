@@ -60,6 +60,7 @@ header h1 {
 	margin-bottom: 5px;
  }
 
+
 .body
 {
 align-content: center;
@@ -68,23 +69,14 @@ alignment-baseline: central;
 
 }
 
-<style type=”text/css”>
-
 video#bgVideo {
-  position: absolute; // Play the video in full screen mode
+  position: absolute;
   top: 0px; 
   left: 0px; 
   min-width: 100%; 
   min-height: 100%;
-  z-index: -1; // Put the video behind all other elements
+  z-index: -1;
+  margin-right: auto;
+margin-left: auto;
+margin-right: auto;
 }
-
-@media only screen and (max-width: 768px) {
-  video {
-    display:none;
-  }
-  body{
-    background-image:url(“image.png”);
-  }
-}
-</style>
