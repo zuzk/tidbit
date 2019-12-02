@@ -53,7 +53,7 @@ header h1 {
 {
 	background-image: url(./small2.gif);
 	background-position: 0px 0px;
-	background-size: auto;
+	background-size: cover;
 	background-repeat: no-repeat;
 	align-content: center;
 	align-self: center;
