@@ -63,11 +63,19 @@ header h1 {
 
 .body
 {
-background-image: url(background8.gif);
-background-repeat: repeat;
-background-position: 0px 0px;
-background-size: auto;
 align-content: center;
 align-self: center;
 alignment-baseline: central;
+}
+
+video#bgVideo {
+position: fixed;
+z-index: -1;
+margin-right: auto;
+margin-left: auto;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+
 }
