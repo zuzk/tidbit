@@ -1,7 +1,7 @@
 @font-face {
 	font-family: 'KGNeatlyPrintedSpaced';
-	src: url(./KGNeatlyPrintedSpaced.woff2) format('woff2'),
-	url(./KGNeatlyPrintedSpaced.woff) format('woff');
+	src: url(./font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
+	url(./font/KGNeatlyPrintedSpaced.woff) format('woff');
 	font-weight: normal;
 	font-style: normal;
 }
