@@ -71,8 +71,6 @@ alignment-baseline: central;
 
 video#bgVideo {
   position: fixed;
-  top: 0px;
-  left: 0px;
   z-index: -1;
 
 }
