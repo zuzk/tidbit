@@ -50,7 +50,7 @@ header h1 {
 
 
 .body
-{
+
 	background-image: url(./small2.gif);
 	background-position: 0px 0px;
 	background-size: cover;
@@ -58,7 +58,7 @@ header h1 {
 	align-content: center;
 	align-self: center;
 	alignment-baseline: central;
-}
+
 
 .container
 {
@@ -75,4 +75,13 @@ align-content: center;
 margin: auto;
 width: auto;
 
+}
+
+
+#video1 {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
 }
