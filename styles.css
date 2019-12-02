@@ -62,14 +62,13 @@ margin-left: auto;
 
 
 
-video#bgVideo
+.body
 {
-position: fixed;
-z-index: -1;
-margin-right: auto;
-margin-left: auto;
-top: 0px;
-bottom: 0px;
-left: 0px;
-right: 0px;
+align-content: center;
+align-self: center;
+background-image: url(small3.gif);
+background-repeat: repeat;
+background-position: 0px 0px;
+background-size: auto;
+alignment-baseline: central;
 }
