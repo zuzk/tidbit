@@ -74,5 +74,6 @@ background-repeat: no-repeat;
 align-content: center;
 width: 100%;
 position: fixed;
+alignment-baseline: bottom
 }
 
