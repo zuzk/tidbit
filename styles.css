@@ -68,9 +68,10 @@ background-size: cover;
 background-repeat: no-repeat;
 }
 
-video#bgVideo 
+
+
+video#bgVideo
 {
-video#bgVideo 
 position: absolute;
 margin-right: auto;
 margin-left: auto;
