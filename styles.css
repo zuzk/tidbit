@@ -41,7 +41,8 @@ header h1 {
   width: 130px;
 }
 
-.content blockquote p {
+.content blockquote p 
+{
   font-size: 14px;
   padding: 15px 20px;
   border-left: 3px solid #edecf2;
@@ -54,34 +55,25 @@ header h1 {
 {
 	background-image: url(./blur.png);
 	background-size: contain;
-	background-size: 
-; 	width: 500px;
+ 	width: 500px;
+}
+
+.body
+{
+align-content: center;
+align-self: center;
+alignment-baseline: central;
+background-image: url(./small2.gif);
+background-position: 0px 0px;
+background-size: cover;
+background-repeat: no-repeat;
 }
 
 
-.weather1
+#video1
 {
 align-content: center;
 margin: auto;
 width: auto;
-
-}
-
-
-#video1 {
-  position: fixed;
-  right: 0;
-  bottom: 0;
-  min-width: 100%; 
-  min-height: 100%;
-}
-
-
-.body
-{
-
-	align-content: center;
-	align-self: center;
-	alignment-baseline: central;
 }
 
