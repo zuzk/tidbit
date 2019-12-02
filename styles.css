@@ -60,18 +60,16 @@ margin-right: auto;
 margin-left: auto;
 }
 
-.body
-{
-align-content: center;
-align-self: center;
-}
-
 
 
 video#bgVideo
 {
 position: fixed;
-top: 0px; 
-left: 0px; 
 z-index: -1;
+margin-right: auto;
+margin-left: auto;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
 }
