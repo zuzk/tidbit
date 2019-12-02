@@ -63,9 +63,11 @@ header h1 {
 
 .body
 {
+background-image: url ("./background1.gif");
+background-repeat: repeat;
+background-position: 0px 0px;
+background-size: auto;
 align-content: center;
 align-self: center;
 alignment-baseline: central;
-background-image: url ("./background1.gif");
-background-repeat: repeat;
 }
