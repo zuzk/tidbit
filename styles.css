@@ -66,14 +66,7 @@ alignment-baseline: central;
 background-position: 0px 0px;
 background-size: cover;
 background-repeat: no-repeat;
+background-image: url(./small2.gif)
 }
 
-
-#video1
-{
-align-content: center;
-width: 100%;
-position: fixed;
-alignment-baseline: bottom
-}
 
