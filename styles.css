@@ -71,10 +71,10 @@ background-repeat: no-repeat;
 video#bgVideo 
 {
 video#bgVideo 
-position: fixed;
+position: absolute;
+margin-right: auto;
+margin-left: auto;
+min-width: 100%; 
+min-height: 100%;
 z-index: -1;
-top: 0px;
-bottom: 0px;
-left: 0px;
-right: 0px;
 }
