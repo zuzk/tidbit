@@ -66,17 +66,7 @@ header h1 {
 align-content: center;
 align-self: center;
 alignment-baseline: central;
-
-}
-
-video#bgVideo {
-position: fixed;
-z-index: -1;
-margin-right: auto;
-margin-left: auto;
-top: 0px;
-bottom: 0px;
-left: 0px;
-right: 0px;
-
+background-image: url ("./background1.gif");
+ background-size: auto;
+background-repeat: repeat;
 }
