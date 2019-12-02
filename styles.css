@@ -70,10 +70,13 @@ alignment-baseline: central;
 }
 
 video#bgVideo {
-  position: fixed;
-  z-index: -1;
-
-  margin-right: auto;
-  margin-left: auto;
+position: fixed;
+z-index: -1;
+margin-right: auto;
+margin-left: auto;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
 
 }
