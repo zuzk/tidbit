@@ -52,12 +52,12 @@ header h1 {
 
 .container
 {
-	background-image: url(./blur.png);
-	width: 400px;
-        margin-top: 5px;
-	margin-right: auto;
-	margin-left: auto
-	margin-bottom: 5px;
+background-image: url(./blur.png);
+width: 400px;
+margin-top: 5px;
+margin-right: auto;
+margin-left: auto
+margin-bottom: 5px;
  }
 
 
@@ -68,9 +68,5 @@ position: absolute;
 z-index: -1;
 left: 0;
 right: 0;
-top: 0px; 
-left: 0px; 
-min-width: 100%; 
-min-height: 100%;
 
 }
