@@ -61,17 +61,16 @@ margin-bottom: 5px;
  }
 
 
-.body
+
+video#bgVideo 
 {
-
-}
-
-
-
-video#bgVideo
-{
-position: absolute;
-min-width: 100%; 
-min-height: 100%;
+position: fixed;
 z-index: -1;
+margin-right: auto;
+margin-left: auto;
+top: 0px;
+bottom: 0px;
+left: 0px;
+right: 0px;
+
 }
