@@ -45,7 +45,7 @@ header h1 {
 {
   font-size: 14px;
   padding: 15px 20px;
-  border-left: 3px solid #edecf2;
+  border-left: 0px solid #edecf2;
   background-color: #f9f9fb;
 }
 
@@ -55,7 +55,7 @@ header h1 {
 background-image: url(./blur2.png);
 width: 400px;
 margin-top: 5px;
-margin-bottom: 5px;
+margin-bottom: 20x;
 margin-right: auto;
 margin-left: auto;
 }
