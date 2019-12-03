@@ -17,6 +17,7 @@ header h1 {
 .content {
   max-width: 600px;
   margin: 0 auto;
+padding-bottom: 1px;
 }
 
 .content h2 {
@@ -29,6 +30,7 @@ header h1 {
   display: block;
   text-align: center;
   margin: 20px 0;
+padding-bottom: 1px;
 }
 
 .content figcaption {
@@ -56,7 +58,7 @@ padding-bottom: 5px;
 background-image: url(./blur2.png);
 width: 400px;
 margin-top: 5px;
-margin-bottom: 5x;
+margin-bottom: 7x;
 margin-right: auto;
 margin-left: auto;
 }
