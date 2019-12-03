@@ -17,14 +17,14 @@ header h1 {
 .content {
   max-width: 600px;
   margin: 0 auto;
-padding-bottom: 10px;
+padding-bottom: 5px;
 }
 
 .content h2 {
   font-size: 18px;
   font-weight: bold;
   margin: 40px 0 30px;
-padding-bottom: 10px;
+padding-bottom: 5px;
 }
 
 .content figure {
@@ -36,7 +36,7 @@ padding-bottom: 10px;
 .content figcaption {
   font-size: 12px;
   padding-top: 10px;
-padding-bottom: 10px;
+padding-bottom: 5px;
 }
 
 .content div.dropdown {
@@ -58,7 +58,7 @@ padding-bottom: 10px;
 background-image: url(./blur2.png);
 width: 400px;
 margin-top: 5px;
-margin-bottom: 20x;
+margin-bottom: 10x;
 margin-right: auto;
 margin-left: auto;
 }
