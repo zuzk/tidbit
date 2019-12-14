@@ -16,7 +16,7 @@ margin-top: 10px;}
 {
 background-image: url(./blur2.png);
 width: 400px;
-height: auto;
+height: 800px;
 margin-top: 5px;
 margin-right: auto;
 margin-left: auto;
@@ -49,5 +49,4 @@ alignment-baseline: central;
 align-content: center;
 align-self: center;
 background-position: 0px 0px;
-background-size: 340px 210px;
 }
