@@ -4,7 +4,6 @@ c=(c  instanceof  Array)?c:[c];s['n']=n=n||0;L=d.createElement(t),e=d.getElement
 L.async=1;L.src='//feed.aqicn.org/feed/'+(c[n].city)+'/'+(c[n].lang||'')+'/feed.v1.js?n='+n+k;
 e.parentNode.insertBefore(L,e);  };  })(  window,document,'script','_aqiFeed'  );
 </script>
-
 <script type="text/javascript" charset="utf-8">
  _aqiFeed({  container:"city-aqi-container",  display:"Xenia Air Quality is %aqi",  city:"usa/ohio/springfield-pm"  });
 </script>
@@ -19,25 +18,14 @@ e.parentNode.insertBefore(L,e);  };  })(  window,document,'script','_aqiFeed'  )
  <title>TidbiT</title>
 </head>
 
-
 <body class="body">
-<div class="container">
- <header><h1 style="font-family:'KGNeatlyPrintedSpaced';font-size: 40px;">tidbit</h1></header>
- <script src="./assets/js/jquery.min.js"></script>
- <script src="./assets/bootstrap/js/bootstrap.min.js"></script>
- <video class="backgroundvideo" audio="muted" autoplay="autoplay" loop="loop" preload="preload" src="./woop.mp4"></video>
-  
- <p class="epa" style="text-align: center; width: auto;">
-  <iframe src="https://www3.epa.gov/cgi-bin/schoolflagwidgetcurrent.cgi?z=45385&n=Xenia" name="Air" width="220px" height="325px" marginheight="3px" scrolling="no" class="epa1" style="border: 0px #ffffff none;" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe>
- </p>
-
- <p style="text-align:center">
-  <span id="city-aqi-container"></span>
- </p>
-
- <p id="weather1" class="weather1" style="text-align: center; width: auto;">
-  <a class="weatherwidget-io" href="https://forecast7.com/en/39d68n83d93/xenia/?unit=us" data-label_1="XENIA" data-label_2="" data-font="Ubuntu" data-icons="Climacons Animated" data-theme="original" data-basecolor="#285960" data-highcolor="#ebd5d7" data-lowcolor="#becad9" data-cloudfill="#285960" >XENIA WEATHER</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='./widget.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script>
- </p>
-
-</div>
+ <div class="container">
+  <header><h1 style="font-family:'KGNeatlyPrintedSpaced';font-size: 40px;">tidbit</h1></header>
+  <script src="./assets/js/jquery.min.js"></script>
+  <script src="./assets/bootstrap/js/bootstrap.min.js"></script>
+  <video class="backgroundvideo" audio="muted" autoplay="autoplay" loop="loop" preload="preload" src="./woop.mp4"></video>
+  <p class="epa" style="text-align: center; width: auto;"><iframe src="https://www3.epa.gov/cgi-bin/schoolflagwidgetcurrent.cgi?z=45385&n=Xenia" name="Air" width="220px" height="325px" marginheight="3px" scrolling="no" class="epa1" style="border: 0px #ffffff none;" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
+  <p style="text-align:center"><span id="city-aqi-container"></span></p>
+  <p id="weather1" class="weather1" style="text-align: center; width: auto;"><a class="weatherwidget-io" href="https://forecast7.com/en/39d68n83d93/xenia/?unit=us" data-label_1="XENIA" data-label_2="" data-font="Arial" data-icons="Climacons Animated" data-theme="original" data-basecolor="#285960" data-highcolor="#ebd5d7" data-lowcolor="#becad9" data-cloudfill="#285960" >XENIA WEATHER</a><script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='./widget.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script></p>
+ </div>
 </body>
