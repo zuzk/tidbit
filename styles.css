@@ -17,7 +17,6 @@ margin-top: 10px;}
 background-image: url(./blur2.png);
 width: 400px;
 margin-top: 5px;
-margin-bottom: 10px;
 margin-right: auto;
 margin-left: auto;
 }
@@ -42,4 +41,13 @@ alignment-baseline: central;
   height: auto;
   z-index: -100;
   transform: translate(-50%, -50%);
+}
+
+.weather1
+{
+align-content: center;
+align-self: center;
+background-repeat: repeat;
+background-position: 0px 0px;
+background-size: auto;
 }
