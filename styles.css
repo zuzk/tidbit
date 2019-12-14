@@ -43,10 +43,3 @@ alignment-baseline: central;
   z-index: -100;
   transform: translate(-50%, -50%);
 }
-
-.weather1
-{
-align-content: center;
-align-self: center;
-background-position: 0px 0px;
-}
