@@ -6,7 +6,6 @@ var favicon_images = [
 './favicon/frame_04_delay-0.04s.gif',
 './favicon/frame_05_delay-0.04s.gif',
 './favicon/frame_06_delay-0.04s.gif',
-'./favicon/frame_07_delay-0.04s.gif',
 './favicon/frame_08_delay-0.04s.gif',
 './favicon/frame_09_delay-0.04s.gif', 
 './favicon/frame_10_delay-0.04s.gif',
