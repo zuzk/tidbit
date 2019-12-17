@@ -57,11 +57,11 @@ alignment-baseline: central;
 	padding:26px 29px;
 	text-decoration:none;
 }
-.myButton:hover {
+.stop1:hover {
 	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
 	background-color:#116975;
 }
-.myButton:active {
+.stop1:active {
 	position:relative;
 	top:1px;
 }
