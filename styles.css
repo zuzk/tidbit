@@ -56,7 +56,7 @@ alignment-baseline: central;
 	font-size:20px;
 	padding:26px 29px;
 	text-decoration:none;
-	margin-top: 15px
+	margin-top: 15px;
 }
 .stop1:hover {
 	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
