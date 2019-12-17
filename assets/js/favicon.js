@@ -35,7 +35,7 @@ image_counter = 0; // To keep track of the current image
 setInterval(function() {
     $("link[rel='icon']").remove();
     $("link[rel='shortcut icon']").remove();
-    $("head").append('<link rel="icon" href="' + favicon_images[image_counter] + '" type="image/gif">');
+    $("head").append('<link rel="icon" href="' + favicon_images[image_counter] + '" type="image/png">');
     
 	if(image_counter == favicon_images.length -1)
         image_counter = 0;
