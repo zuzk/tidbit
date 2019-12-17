@@ -7,7 +7,7 @@ text-align: center;
 padding: 0 10px;}
 
 header h1
-{font-weight: normal;
+{font-weight: bold;
 margin-bottom: 12px;
 font-size: 40px;
 margin-top: 10px;}
@@ -54,7 +54,7 @@ alignment-baseline: central;
 	color:#ffffff;
 	font-family:Verdana;
 	font-size:20px;
-	padding:26px 29px;
+	padding:23px 20px;
 	text-decoration:none;
 	margin-top: 10px;
 }
