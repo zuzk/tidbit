@@ -48,14 +48,13 @@ font-weight: normal;
 .stop1 {
 	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
 	background-color:#39948c;
-	border-radius:9px;
-	border:3px solid #020042;
+	border-radius:5px;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Verdana;
-	font-size:20px;
-	padding:12px 9px;
+	font-size:16px;
+	padding:13px 10px;
 	text-decoration:none;
 }
 .stop1:hover {
