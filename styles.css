@@ -1,18 +1,16 @@
 header
-{margin-top: 5px;
+{margin-top: 10px;
 margin-right: auto;
 margin-left: auto;
-margin-bottom: 50px;
+margin-bottom: 30px;
 text-align: center;
 padding: 0 10px;}
 
 header h1
-{
-font-weight: normal;
+{font-weight: normal;
 margin-bottom: 12px;
 font-size: 40px;
-margin-top: 10px;
-}
+margin-top: 10px;}
 
 .container
 {
@@ -32,7 +30,7 @@ background-repeat: repeat;
 background-position: 0px 0px;
 background-size: auto;
 alignment-baseline: central;
-font-weight: bold;
+font-weight: normal;
 }
 
 .backgroundvideo { 
@@ -57,7 +55,7 @@ font-weight: bold;
 	color:#ffffff;
 	font-family:Verdana;
 	font-size:20px;
-	padding:15px 12px;
+	padding:12px 9px;
 	text-decoration:none;
 }
 .stop1:hover {
