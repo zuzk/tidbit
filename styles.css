@@ -52,10 +52,14 @@ font-weight: normal;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	font-family:Verdana;
-	font-size:14px;
-	padding:5px 31px;
+	padding:1px 31px;
 	text-decoration:none;
+	font-family: 'Segoe UI';
+	font-size: 16px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 14px;
 }
 .stop1:hover {
 	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
@@ -74,14 +78,14 @@ font-weight: normal;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	padding:5px 29px;
+	padding:1px 29px;
 	text-decoration:none;
-        font-family: 'Segoe UI', Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
+        font-family: 'Segoe UI';
 	font-size: 16px; 
 	font-style: normal;
 	font-variant: normal;
-	font-weight: 600;
-	line-height: 10px;
+	font-weight: 500;
+	line-height: 14px;
 }
 
 .start1:hover {
