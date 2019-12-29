@@ -14,13 +14,12 @@ var favicon_images = [
 './favicon/frame_13_delay-0.04s.gif',
 './favicon/frame_14_delay-0.04s.gif'
 ],
-image_counter = 0; // To keep track of the current image
+image_counter = 0;
 
 setInterval(function() {
-    ("link[rel='icon']").remove();
-    ("link[rel='shortcut icon']").remove();
-    ("head").append('<link rel="icon" href="' + favicon_images[image_counter] + '" type="image/gif">');
-    
+    $("link[rel='icon']").remove();
+    $("link[rel='shortcut icon']").remove();
+    $("head").append('<link rel="icon" href="' + favicon_images[image_counter] + '" type="image/gif">');
 	if(image_counter == favicon_images.length -1)
         image_counter = 0;
     else
