@@ -76,14 +76,13 @@ font-weight: normal;
 	color:#ffffff;
 	padding:5px 29px;
 	text-decoration:none;
-        font-family: "Segoe UI", Frutiger, "Frutiger Linotype", "Dejavu Sans", "Helvetica Neue", Arial, sans-serif;
+        font-family: Segoe UI, Frutiger, Frutiger Linotype, Dejavu Sans, Helvetica Neue, Arial, sans-serif;
 	font-size: 16px; 
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 700;
 	line-height: 8px;
 }
-	 
 
 .start1:hover {
 	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
