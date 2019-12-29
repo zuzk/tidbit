@@ -46,8 +46,8 @@ font-weight: normal;
 }
 
 .stop1 {
-	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
-	background-color:#116975;
+	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
+	background-color:#39948c;
 	border-radius:1px;
 	display:inline-block;
 	cursor:pointer;
@@ -62,8 +62,8 @@ font-weight: normal;
 	line-height: 12px;
 }
 .stop1:hover {
-	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
-	background-color:#39948c;
+	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
+	background-color:#116975;
 }
 .stop1:active {
 	position:relative;
@@ -72,8 +72,8 @@ font-weight: normal;
 
 
 .start1 {
-	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
-	background-color:#39948c;
+	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
+	background-color:#116975;
 	border-radius:1px;
 	display:inline-block;
 	cursor:pointer;
@@ -88,10 +88,12 @@ font-weight: normal;
 	line-height: 12px;
 }
 
+
 .start1:hover {
-	background:linear-gradient(to bottom, #116975 5%, #39948c 100%);
-	background-color:#116975;
+	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
+	background-color:#39948c;
 }
+
 .start1:active {
 	position:relative;
 	top:1px;
