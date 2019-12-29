@@ -11,10 +11,10 @@ font-style: normal;
 @font-face 
 {
 font-family: SegoeUI;
-src: local("Segoe UI"),
-url(./fonts/segoen.woff2) format("woff2"),
-url(./fonts/segoen.woff) format("woff"),
-url(./fonts/segoen.ttf) format("truetype");
+src: local('Segoe UI'),
+url(./font/segoen.woff2) format('woff2'),
+url(./font/segoen.woff) format('woff'),
+url(./font/segoen.ttf) format('truetype');
 font-weight: 400;
 }
 
@@ -22,9 +22,9 @@ font-weight: 400;
 @font-face
 {
 font-family: SegoeUI;
-src: local("Segoe UI Bold"),
-url(./fonts/segoeb.woff2) format("woff2"),
-url(./fonts/segoeb.woff) format("woff"),
-url(./fonts/segoeb.ttf) format("truetype");
+src: local('Segoe UI Bold'),
+url(./font/segoeb.woff2) format('woff2'),
+url(./font/segoeb.woff) format('woff'),
+url(./font/segoeb.ttf) format('truetype');
 font-weight: 600;
 }
