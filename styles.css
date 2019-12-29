@@ -53,8 +53,8 @@ font-weight: normal;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Verdana;
-	font-size:8px;
-	padding:14px 28px;
+	font-size:14px;
+	padding:14px 8px;
 	text-decoration:none;
 }
 .stop1:hover {
@@ -75,7 +75,7 @@ font-weight: normal;
 	cursor:pointer;
 	color:#ffffff;
 	font-family:Verdana;
-	font-size:8px;
+	font-size:14px;
 	padding:14px 28px;
 	text-decoration:none;
 }
