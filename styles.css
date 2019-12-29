@@ -52,14 +52,14 @@ font-weight: normal;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	padding:8px 31px;
+	padding:10px 31px;
 	text-decoration:none;
 	font-family: 'Segoe UI';
 	font-size: 16px;
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 10px;
+	line-height: 12px;
 }
 .stop1:hover {
 	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);
@@ -78,14 +78,14 @@ font-weight: normal;
 	display:inline-block;
 	cursor:pointer;
 	color:#ffffff;
-	padding:8px 30px;
+	padding:10px 30px;
 	text-decoration:none;
         font-family: 'Segoe UI';
 	font-size: 16px; 
 	font-style: normal;
 	font-variant: normal;
 	font-weight: 500;
-	line-height: 10px;
+	line-height: 12px;
 }
 
 .start1:hover {
