@@ -12,6 +12,16 @@ margin-bottom: 12px;
 font-size: 40px;
 margin-top: 10px;}
 
+
+body {
+  background-image: url(./storm.gif);
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+  margin-right: auto;
+  margin-left: auto;
+}
+
 .container
 {
 background-image: url(./blur2.png);
