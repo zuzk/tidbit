@@ -13,10 +13,6 @@ font-size: 40px;
 margin-top: 10px;}
 
 
-body {
-
-}
-
 .container
 {
 background-image: url(./blur2.png);
@@ -32,13 +28,13 @@ margin-left: auto;
 background-image: url(./small2.gif);
 background-repeat: no-repeat;
 background-attachment: fixed; 
-background-size: cover;
+background-size: 100% 100%;
 font-weight: normal;
 margin-right: auto;
 margin-left: auto;
 align-content: center;
 align-self: center;
-background-position: auto auto;
+
 }
 
 .stop1 {
