@@ -1,3 +1,0 @@
-git lfs track '*.img'
-git lfs track '*.zip'
-git lfs track '*.7z'
