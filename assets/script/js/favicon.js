@@ -12,7 +12,7 @@ var favicon_images = [
 './assets/media/visual/assorted/favicon/frame_11_delay-0.04s.gif',
 './assets/media/visual/assorted/favicon/frame_12_delay-0.04s.gif',
 './assets/media/visual/assorted/favicon/frame_13_delay-0.04s.gif',
-'./assets/media/visual/assorted/favicon/frame_14_delay-0.04s.gif'
+'./assets/media/visual/assorted/favicon/frame_14_delay-0.04s.gif',
 ],
 image_counter = 0;
 
