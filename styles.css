@@ -25,12 +25,8 @@ padding-left: 15px;
 padding-right: 15px;
 padding-top: 15px;
 padding-bottom: 15px;
-color:rgb(255, 255, 255);
-font-family:'Segoe UI';
-font-size:16px;
-font-style:normal;
-font-variant:normal;
-font-weight: normal;
+font-family: "Segoe UI";
+color: #FFFFFF;
 
 }
 
@@ -40,11 +36,8 @@ background-image: url(./background2.gif);
 background-repeat: no-repeat;
 background-attachment: fixed; 
 background-size: 100% 100%;
-color:rgb(255, 255, 255);
-font-family:'Segoe UI';
-font-size:16px;
-font-style:normal;
-font-variant:normal;
+font-family: "Segoe UI";
+color: #FFFFFF;
 font-weight: normal;
 margin-right: 100%;
 margin-left: 100%;
