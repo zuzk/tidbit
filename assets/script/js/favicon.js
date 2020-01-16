@@ -1,18 +1,18 @@
 var favicon_images = [
-'../assets/media/visual/assorted/favicon/frame_00_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_01_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_02_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_03_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_04_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_05_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_06_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_08_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_09_delay-0.04s.gif', 
-'../assets/media/visual/assorted/favicon/frame_10_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_11_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_12_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_13_delay-0.04s.gif',
-'../assets/media/visual/assorted/favicon/frame_14_delay-0.04s.gif'
+'/assets/media/visual/assorted/favicon/frame_00_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_01_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_02_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_03_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_04_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_05_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_06_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_08_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_09_delay-0.04s.gif', 
+'/assets/media/visual/assorted/favicon/frame_10_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_11_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_12_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_13_delay-0.04s.gif',
+'/assets/media/visual/assorted/favicon/frame_14_delay-0.04s.gif'
 ],
 image_counter = 0;
 
