@@ -1,8 +1,8 @@
 @font-face
 {
 font-family: 'KGNeatlyPrintedSpaced';
-src: url(../assets/media/visual/element/font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
-url(../assets/media/visual/element/font/KGNeatlyPrintedSpaced.woff) format('woff');
+src: url(/assets/media/visual/element/font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
+url(/assets/media/visual/element/font/KGNeatlyPrintedSpaced.woff) format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -12,9 +12,9 @@ font-style: normal;
 {
 font-family: SegoeUI;
 src: local('Segoe UI'),
-url(../assets/media/visual/element/font/segoen.woff2) format('woff2'),
-url(../assets/media/visual/element/font/segoen.woff) format('woff'),
-url(../assets/media/visual/element/font/segoen.ttf) format('truetype');
+url(/assets/media/visual/element/font/segoen.woff2) format('woff2'),
+url(/assets/media/visual/element/font/segoen.woff) format('woff'),
+url(/assets/media/visual/element/font/segoen.ttf) format('truetype');
 font-weight: 400;
 }
 
@@ -23,8 +23,8 @@ font-weight: 400;
 {
 font-family: SegoeUI;
 src: local('Segoe UI Bold'),
-url(../assets/media/visual/element/font/segoeb.woff2) format('woff2'),
-url(../assets/media/visual/segoeb.woff) format('woff'),
-url(../assets/media/visual/element/font/segoeb.ttf) format('truetype');
+url(/assets/media/visual/element/font/segoeb.woff2) format('woff2'),
+url(/assets/media/visual/segoeb.woff) format('woff'),
+url(/assets/media/visual/element/font/segoeb.ttf) format('truetype');
 font-weight: 600;
 }
