@@ -1,0 +1,30 @@
+@font-face
+{
+font-family: 'KGNeatlyPrintedSpaced';
+src: url(./font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
+url(./font/KGNeatlyPrintedSpaced.woff) format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+
+@font-face 
+{
+font-family: SegoeUI;
+src: local('Segoe UI'),
+url(./font/segoen.woff2) format('woff2'),
+url(./font/segoen.woff) format('woff'),
+url(./font/segoen.ttf) format('truetype');
+font-weight: 400;
+}
+
+
+@font-face
+{
+font-family: SegoeUI;
+src: local('Segoe UI Bold'),
+url(./font/segoeb.woff2) format('woff2'),
+url(./font/segoeb.woff) format('woff'),
+url(./font/segoeb.ttf) format('truetype');
+font-weight: 600;
+}
