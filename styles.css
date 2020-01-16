@@ -3,8 +3,7 @@ header
 margin-right: auto;
 margin-left: auto;
 margin-bottom: 30px;
-text-align: center;
-padding: 0 10px;}
+text-align: center;}
 
 header h1
 {font-weight: normal;
@@ -19,8 +18,14 @@ background-image: url(./blur2.png);
 width: 360px;
 height: 820px;
 margin-top: 15px;
-margin-right: auto;
-margin-left: auto;
+margin-right: 100%;
+margin-left: 100%;
+text-align: center;
+padding-left: 15px;
+padding-right: 15px;
+padding-top: 15px;
+padding-bottom: 15px;
+
 }
 
 .body
@@ -30,10 +35,11 @@ background-repeat: no-repeat;
 background-attachment: fixed; 
 background-size: 100% 100%;
 font-weight: normal;
-margin-right: auto;
-margin-left: auto;
+margin-right: 100%;
+margin-left: 100%;
 align-content: center;
 align-self: center;
+text-align: center;
 
 }
 
