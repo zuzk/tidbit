@@ -50,7 +50,7 @@ text-align: center;
 background-image: url(/lol.gif);
 background-repeat: repeat;
 background-attachment: fixed; 
-background-size: 100% 100%;
+background-size: auto;
 font-family: "Segoe UI";
 color: #000000;
 font-weight: 400;
