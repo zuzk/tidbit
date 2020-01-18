@@ -47,10 +47,15 @@ text-align: center;
 
 .body2
 {
-background-image: url(https://tidbit.ml/lol.gif);
+background-image: url(/lol.gif);
 background-repeat: repeat;
+background-attachment: fixed; 
+background-size: 100% 100%;
 font-family: "Segoe UI";
 color: #000000;
+font-weight: 400;
+margin-right: auto;
+margin-left: auto;
 }
 
 
