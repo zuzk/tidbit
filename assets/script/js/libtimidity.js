@@ -27948,4 +27948,4 @@ run();
 
 
 
-//# sourceMappingURL=/assets/script/map/libtimidity.js.map
+//# sourceMappingURL=libtimidity.js.map
