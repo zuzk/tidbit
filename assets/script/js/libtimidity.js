@@ -12,7 +12,6 @@ else if(ENVIRONMENT_IS_SHELL){if(!Module.print)Module.print=print;if(typeof prin
 Module.readBinary=function readBinary(f){if(typeof readbuffer==='function'){return new Uint8Array(readbuffer(f))}
 var data=read(f,'binary');assert(typeof data==='object');return data};if(typeof scriptArgs!='undefined'){Module['arguments']=scriptArgs}else if(typeof arguments!='undefined'){Module['arguments']=arguments}}
 else if(ENVIRONMENT_IS_WEB||ENVIRONMENT_IS_WORKER){Module.read=function read(url){var xhr=new XMLHttpRequest();xhr.open('GET',url,!1);xhr.send(null);return xhr.responseText};Module.readAsync=function readAsync(url,onload,onerror){var xhr=new XMLHttpRequest();xhr.open('GET',url,!0);xhr.responseType='arraybuffer';xhr.onload=function xhr_onload(){if(xhr.status==200||(xhr.status==0&&xhr.response)){onload(xhr.response)}else{onerror()}};xhr.onerror=onerror;xhr.send(null)};if(typeof arguments!='undefined'){Module['arguments']=arguments}
-if(typeof console!=='undefined'){if(!Module.print)Module.print=function print(x){console.log(x)};if(!Module.printErr)Module.printErr=function printErr(x){console.warn(x)}}else{var TRY_USE_DUMP=!1;if(!Module.print)Module.print=(TRY_USE_DUMP&&(typeof(dump)!=="undefined")?(function(x){dump(x)}):(function(x){}))}
 if(ENVIRONMENT_IS_WORKER){Module.load=importScripts}
 if(typeof Module.setWindowTitle==='undefined'){Module.setWindowTitle=function(title){document.title=title}}}
 else{throw 'Unknown runtime environment. Where are we?'}
