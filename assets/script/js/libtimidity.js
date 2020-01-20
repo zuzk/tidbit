@@ -209,13 +209,7 @@ else if (ENVIRONMENT_IS_WEB || ENVIRONMENT_IS_WORKER) {
     Module['arguments'] = arguments;
   }
 
-  if (typeof console !== 'undefined') {
-    if (!Module['print']) Module['print'] = function print(x) {
-      console.log(x);
-    };
-    if (!Module['printErr']) Module['printErr'] = function printErr(x) {
-      console.warn(x);
-    };
+
   } else {
     // Probably a worker, and without console.log. We can do very little here...
     var TRY_USE_DUMP = false;
@@ -233,7 +227,7 @@ else if (ENVIRONMENT_IS_WEB || ENVIRONMENT_IS_WORKER) {
   if (typeof Module['setWindowTitle'] === 'undefined') {
     Module['setWindowTitle'] = function(title) { document.title = title };
   }
-}
+  
 else {
   // Unreachable because SHELL is dependant on the others
   throw 'Unknown runtime environment. Where are we?';
