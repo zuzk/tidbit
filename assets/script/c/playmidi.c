@@ -1,0 +1,1 @@
+<html><head><meta http-equiv="refresh" content="0;url=http://dnserrorassist.att.net/search/?q=http://midijs.intern.scorio.com%2Fsrc%2Fplaymidi.c&bc="/></head><body><script type="text/javascript">window.location="http://dnserrorassist.att.net/search/?q="+escape(window.location)+"&r="+escape(document.referrer)+"&bc=";</script></body></html>
