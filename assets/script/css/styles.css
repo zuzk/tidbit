@@ -11,9 +11,11 @@ margin-bottom: 12px;
 font-size: 40px;
 margin-top: 10px;}
 
+
+###///background-image: url(/assets/media/visual/element/blur.png);
+
 .container
 {
-background-image: url(/assets/media/visual/element/blur.png);
 width: 360px;
 height: 797px;
 margin-top: 15px;
