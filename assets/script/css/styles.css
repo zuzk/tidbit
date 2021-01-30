@@ -141,3 +141,31 @@ margin-left: auto;
 	position:relative;
 	top:1px;
 }
+
+
+.dayton {
+	color:#000000;
+	font-family:"Segoe UI";
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	padding:4px 20px;
+	-webkit-border-radius:1px;
+	-moz-border-radius:1px;
+	border-radius:1px;
+	background:rgb(103, 181, 184);
+	background: -moz-linear-gradient(90deg, rgb(48, 103, 113) 31%, rgb(103, 181, 184) 100%);
+	background: -webkit-linear-gradient(90deg, rgb(48, 103, 113) 31%, rgb(103, 181, 184) 100%);
+	background: -o-linear-gradient(90deg, rgb(48, 103, 113) 31%, rgb(103, 181, 184) 100%);
+	background: -ms-linear-gradient(90deg, rgb(48, 103, 113) 31%, rgb(103, 181, 184) 100%);
+	background: linear-gradient(0deg, rgb(48, 103, 113) 31%, rgb(103, 181, 184) 100%);
+	-webkit-box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
+}
+
+.dayton:active {
+	position:relative;
+	top:1px;
+}
