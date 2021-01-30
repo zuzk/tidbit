@@ -12,6 +12,14 @@ font-size: 40px;
 margin-top: 10px;}
 
 
+.title 
+{
+color: inherit;
+text-decoration: none;
+}
+
+
+}
 .container
 {
 background-image: url(/assets/media/visual/element/blur.png);
