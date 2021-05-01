@@ -1,8 +1,8 @@
 @font-face
 {
 font-family: 'KGNeatlyPrintedSpaced';
-src: url(/assets/media/visual/font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
-url(/assets/media/visual/font/KGNeatlyPrintedSpaced.woff) format('woff');
+src: url(/assets/media/visual/element/font/KGNeatlyPrintedSpaced.woff2) format('woff2'),
+url(/assets/media/visual/font/element/KGNeatlyPrintedSpaced.woff) format('woff');
 font-weight: normal;
 font-style: normal;
 }
