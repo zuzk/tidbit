@@ -16,7 +16,7 @@ margin-right: auto;
 margin-left: auto;
 margin-bottom: 30px;
 text-align: center;
-background-image: url(/assets/blur.png);
+background-image: url(/assets/media/visual/element/blur.png);
 width: auto;
 height: auto;
 padding-left: 10px;
@@ -30,7 +30,7 @@ color: #000000;
 
 .body
 {
-background-image: url(yes1.gif);
+background-image: url(/assets/yes1.gif);
 background-repeat: repeat;
 background-attachment: fixed; 
 background-size: auto auto;
