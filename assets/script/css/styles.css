@@ -13,6 +13,13 @@ margin-top: 10px;
 margin-right: auto;
 margin-left: auto;}
 
+.aqiwidget1
+{
+text-align: center;
+margin-right: auto;
+margin-left: auto;
+}
+
 .container
 {
 background-image: url(/assets/media/visual/element/blur.png);
@@ -174,10 +181,3 @@ margin-left: auto;
 	top:1px;
 }
 
-
-aqiwidget1
-{
-text-align: center;
-margin-right: auto;
-margin-left: auto;
-}
