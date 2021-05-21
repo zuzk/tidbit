@@ -17,13 +17,15 @@ margin-left: auto;}
 {
 background-image: url(/assets/media/visual/element/blur.png);
 width: 360px;
-height: 850px;
+height: 870px;
 padding-left: 8px;
 padding-right: 8px;
 padding-top: 5px;
 padding-bottom: 15px;
 margin-top: 15px;
 text-align: center;
+margin-right: auto;
+margin-left: auto;
 
 font-family: "Segoe UI";
 color: #000000;
