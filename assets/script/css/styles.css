@@ -15,8 +15,8 @@ margin-top: 10px;}
 .container
 {
 background-image: url(/assets/media/visual/element/blur.png);
-width: 360px;
-height: 833px;
+width: auto;
+height: auto;
 margin-top: 15px;
 margin-right: auto;
 margin-left: auto;
