@@ -17,7 +17,11 @@ margin-left: auto;}
 {
 background-image: url(/assets/media/visual/element/blur.png);
 width: 360px;
-height: 834px;
+height: 850px;
+padding-left: 8px;
+padding-right: 8px;
+padding-top: 5px;
+padding-bottom: 15px;
 margin-top: 15px;
 margin-right: auto;
 margin-left: auto;
