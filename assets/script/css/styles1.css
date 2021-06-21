@@ -53,19 +53,6 @@ align-self: center;
 text-align: center;
 }
 
-.body2
-{
-background-image: url(/assets/media/visual/background/succ.gif);
-background-repeat: repeat;
-background-attachment: fixed; 
-background-size: auto;
-font-family: "Segoe UI";
-color: #000000;
-font-weight: 400;
-margin-right: auto;
-margin-left: auto;
-}
-
 
 .stop1 {
 	background:linear-gradient(to bottom, #39948c 5%, #116975 100%);

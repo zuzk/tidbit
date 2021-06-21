@@ -1,6 +1,6 @@
 var favicon_images = [
-'/assets/media/visual/assorted/frame_0_delay-0.27s.gif',
-'/assets/media/visual/assorted/frame_1_delay-0.27s.gif',
+'/assets/media/visual/assorted/favicon/frame_0_delay-0.27s.gif',
+'/assets/media/visual/assorted/favicon/frame_1_delay-0.27s.gif',
 ],
 image_counter = 0;
 
