@@ -1,8 +1,28 @@
+<meta name="description" content="Tidbit is your place for all weather and aqi info. Designed for the Xenia and Dayton areas of Ohio. No ads, no popups, no crap. Complete, simple, clean">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org/", 
+  "@type": "BreadcrumbList", 
+  "itemListElement": [{
+    "@type": "ListItem", 
+    "position": 1, 
+    "name": "TidbiT",
+    "item": "https://tidbit.ml"  
+  },{
+    "@type": "ListItem", 
+    "position": 2, 
+    "name": "Dayton",
+    "item": "https://tidbit.ml/dayton"  
+  }]
+}
+</script>
+
 <script type="text/javascript" charset="utf-8">(function(w,d,t,f){  w[f]=w[f]||function(c,k,n){s=w[f],k=s['k']=(s['k']||(k?('&k='+k):''));s['c']=c=(c  instanceof  Array)?c:[c];s['n']=n=n||0;L=d.createElement(t),e=d.getElementsByTagName(t)[0];L.async=1;L.src='//feed.aqicn.org/feed/'+(c[n].city)+'/'+(c[n].lang||'')+'/feed.v1.js?n='+n+k;e.parentNode.insertBefore(L,e);  };  })(  window,document,'script','_aqiFeed'  );</script>
 <script type="text/javascript" charset="utf-8"> _aqiFeed({  container:"city-aqi-container",  display:"Aqi is %aqi ppm of 2.5μm/<",  city:"usa/ohio/springfield-pm"  });</script>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src='/assets/script/js/widget.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','weatherwidget-io-js');</script>
 <script type="text/javascript" src="/assets/script/js/favicon.js"></script>
 <script type="text/javascript" src="//www.midijs.net/lib/midi.js"></script>
+
 <head>
  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
  <link rel="stylesheet" href="/assets/script/css/font.css">
@@ -19,7 +39,6 @@
   <p style="text-align: center; width: auto;"><a class="start1" onClick="MIDIjs.play('/assets/media/audio/boom.mid');">❖ Start the jams ❖</a></p>
   <p style="text-align: center; width: auto;"><a class="stop1" onClick="MIDIjs.stop('/assets/media/audio/boom.mid');">❖ Stop the jams ❖</a></p>
   <p style="text-align: center; margin-top: 10px;"><iframe src="https://widget.airnow.gov/aq-flag-widget/?a=current&z=45385&n=Air Quality" name="Air" width="220px" height="280px" marginheight="10px" scrolling="no" style="border: 1000px #ffffff;" allowtransparency="true" allowfullscreen="allowfullscreen"></iframe></p>
-  
   <div class="aqiwidget1" name="airvisual_widget" key="oNB8qyGedJhAXHLjz"></div>
   <script type="text/javascript" src="https://www.airvisual.com/scripts/widget_v2.0.js"></script>
   <p style="text-align:center; margin-bottom: 15px; margin-top: 1px; width: auto;"><span id="city-aqi-container"></span></p>
