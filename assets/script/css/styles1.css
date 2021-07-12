@@ -136,6 +136,34 @@ text-align: center;
 	top:1px;
 }
 
+
+.Xenia {
+	color:#000000;
+	font-family:"Segoe UI";
+	font-size:16px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:500;
+	padding:4px 20px;
+	-webkit-border-radius:1px;
+	-moz-border-radius:1px;
+	border-radius:1px;
+	background:rgb(103, 181, 184);
+	background: -moz-linear-gradient(90deg, rgb(103, 181, 184) 31%, rgb(48, 103, 113) 100%);
+	background: -webkit-linear-gradient(90deg, rgb(103, 181, 184) 31%, rgb(48, 103, 113) 100%);
+	background: -o-linear-gradient(90deg, rgb(103, 181, 184) 31%, rgb(48, 103, 113) 100%);
+	background: -ms-linear-gradient(90deg, rgb(103, 181, 184) 31%, rgb(48, 103, 113) 100%);
+	background: linear-gradient(0deg, rgb(103, 181, 184) 31%, rgb(48, 103, 113) 100%);
+	-webkit-box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
+	-moz-box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
+	box-shadow:0px 0px 0px rgba(50, 50, 50, 0.75);
+}
+
+.Xenia:active {
+	position:relative;
+	top:1px;
+}
+
 .title 
 {
 color: inherit;
