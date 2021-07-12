@@ -2,7 +2,7 @@ header
 {margin-top: 9px;
 margin-right: auto;
 margin-left: auto;
-margin-bottom: 30px;
+margin-bottom: 10px;
 text-align: center;}
 
 header h1
@@ -33,7 +33,7 @@ padding-left: 5px;
 {
 background-image: url(/assets/media/visual/element/blur.png);
 width: 360px;
-height: 826px;
+height: 796px;
 padding-left: 8px;
 padding-right: 8px;
 padding-top: 5px;
